@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\01 - Heranca\\Exercicios\\ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C357FC-B50A-46CC-8577-2322E69C6A05}|ex3.csproj|c:\\users\\senai2em\\desktop\\backend\\poo\\01 - heranca\\exercicios\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C357FC-B50A-46CC-8577-2322E69C6A05}|ex3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C357FC-B50A-46CC-8577-2322E69C6A05}|ex3.csproj|c:\\users\\senai2em\\desktop\\backend\\poo\\01 - heranca\\exercicios\\ex3\\contagenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C357FC-B50A-46CC-8577-2322E69C6A05}|ex3.csproj|solutionrelative:contagenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaGenerica.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\01 - Heranca\\Exercicios\\ex3\\ContaGenerica.cs",
+              "RelativeDocumentMoniker": "ContaGenerica.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\01 - Heranca\\Exercicios\\ex3\\ContaGenerica.cs",
+              "RelativeToolTip": "ContaGenerica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:47:45.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\01 - Heranca\\Exercicios\\ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\01 - Heranca\\Exercicios\\ex3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:47:18.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

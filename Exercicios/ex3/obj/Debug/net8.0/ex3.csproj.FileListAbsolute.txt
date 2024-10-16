@@ -1,0 +1,5 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\ex3\obj\Debug\net8.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\ex3\obj\Debug\net8.0\ex3.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\ex3\obj\Debug\net8.0\ex3.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\ex3\obj\Debug\net8.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\01 - Heranca\Exercicios\ex3\obj\Debug\net8.0\ex3.sourcelink.json
